@@ -13,11 +13,10 @@
 	Essa aplicação foi desenvolvida em python junto com framework Flask para realizar o consumos de APIs
 	para os métodos do tipo GET, como banco de dados foi utilizado o Mysql e para teste unitário foi utilizado
 	framework unittest.
-
-	Video da aplicação:
-	
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/koDITPq_bNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+[![Python API](https://i9.ytimg.com/vi/koDITPq_bNI/mq2.jpg?sqp=CKjUoZkG&rs=AOn4CLBMSsux6EY9yCFb-mpoZz0QiaHetw)](https://youtu.be/koDITPq_bNI)
+
 <h1>
 	Dependência para teste.
 </h1>
