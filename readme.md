@@ -6,7 +6,18 @@
 	<li>mysql-connector-python: pip install mysql-connector-python.</li>
 	<li>mysqlclient: pip install mysqlclient.</li>
 </ul>
+<h1>
+	Descrição do projeto.
+</h1>
+<p>
+	Essa aplicação foi desenvolvida em python junto com framework Flask para realizar o consumos de APIs
+	para os métodos do tipo GET, como banco de dados foi utilizado o Mysql e para teste unitário foi utilizado
+	framework unittest.
 
+	Video da aplicação:
+	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/koDITPq_bNI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 <h1>
 	Dependência para teste.
 </h1>
